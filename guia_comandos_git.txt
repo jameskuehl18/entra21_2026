@@ -90,6 +90,8 @@ git checkout -b nova-feature
 Usando switch:
 git switch nova-feature
 
+Detalhes
+
 Criar e trocar com switch:
 git switch -c nova-feature
 
