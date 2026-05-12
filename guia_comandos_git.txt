@@ -61,7 +61,6 @@ git add arquivo1.txt arquivo2.txt
 
 5. COMMITS
 ----------
-James Kuehl
 
 Criar commit:
 git commit -m "Primeiro commit"
